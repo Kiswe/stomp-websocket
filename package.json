@@ -1,6 +1,6 @@
 {
   "name": "stompjs",
-  "version": "2.3.3",
+  "version": "2.3.3-update",
   "author": "Jeff Mesnil <jmesnil@gmail.com>",
   "description": "STOMP for JavaScript apps (Web browser & node.js)",
   "scripts": {
@@ -16,7 +16,7 @@
     "connect": "latest"
   },
   "optionalDependencies": {
-    "websocket": "^1.0.30"
+    "websocket": "1.0.23"
   },
   "directories": {
     "doc": "doc",
